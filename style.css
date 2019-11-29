@@ -221,7 +221,7 @@ margin-right: 2px;
 
 .introduction {
   height: 587px;
-  background-image: url(img/introbottom.jpg);
+  background-image: url(introbottom.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -387,7 +387,7 @@ margin-right: 2px;
 
 .aboutsecond {
   height: 441px;
-  background-image: url(img/aboutsecondbg.jpg);
+  background-image: url(aboutsecondbg.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -566,7 +566,7 @@ margin-right: 2px;
 }
 
 .teacher {
-  background-image: url(img/teacherbg.jpg);
+  background-image: url(teacherbg.jpg);
   background-size: cover;
   background-position: center;
   color: white;
@@ -758,7 +758,7 @@ margin-right: 2px;
   text-align: center;
   padding: 40px 0;
   height: 800px;
-  background-image: url(img/classbg.jpg);
+  background-image: url(classbg.jpg);
   background-size: cover;
   background-position: center;
   color: white;
@@ -894,7 +894,7 @@ margin-right: 2px;
 
 .bangkok {
   text-align: left;
-  background-image: url(img/bangkokbg.jpg);
+  background-image: url(bangkokbg.jpg);
   background-size: cover;
   background-position: center;
   height: 496px;
@@ -994,7 +994,7 @@ margin-right: 2px;
 
 .specialdetail {
   color: white;
-  background-image: url(img/specialdetail.jpg);
+  background-image: url(specialdetail.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -1258,7 +1258,7 @@ footer {
 }
 
 .merit-img1 {
-  background-image: url(img/learnfromfreelancer.jpg);
+  background-image: url(learnfromfreelancer.jpg);
   background-size: cover;
   background-position-y: center;
   width: 360px;
@@ -1267,7 +1267,7 @@ footer {
 }
 
 .merit-img2 {
-  background-image: url(img/learnfromprojects.jpg);
+  background-image: url(learnfromprojects.jpg);
   background-size: cover;
   background-position-y: center;
   width: 360px;
@@ -1276,7 +1276,7 @@ footer {
 }
 
 .merit-img3 {
-  background-image: url(img/actuallyfree.jpg);
+  background-image: url(actuallyfree.jpg);
   background-size: cover;
   background-position-y: center;
   width: 360px;
@@ -1671,7 +1671,7 @@ footer {
   }
 
   .cover-img {
-    background-image: url(img/mainsp.jpg);
+    background-image: url(mainsp.jpg);
     background-size: cover;
     background-position: center;
     height: 312px;
@@ -1775,7 +1775,7 @@ footer {
   }
 
   .aboutsecond {
-    background-image: url(img/aboutsecondbgsp.jpg);
+    background-image: url(aboutsecondbgsp.jpg);
     background-size: cover;
     background-position: center;
     height: 606px;
@@ -1879,7 +1879,7 @@ footer {
   }
 
   .teacher {
-    background-image: url(img/teacherbgsp.jpg);
+    background-image: url(teacherbgsp.jpg);
     height: 1447px;
     padding: 20px 0;
   }
@@ -1982,7 +1982,7 @@ footer {
   }
 
   .class {
-    background-image: url(img/classbgsp.jpg);
+    background-image: url(classbgsp.jpg);
     height: 968px;
     padding: 20px 0;
   }
@@ -2081,7 +2081,7 @@ footer {
   }
 
   .bangkok {
-    background-image: url(img/bangkokbgsp.jpg);
+    background-image: url(bangkokbgsp.jpg);
     height: 338px;
     padding: 20px 30px;
   }
@@ -2154,7 +2154,7 @@ footer {
   }
 
   .specialdetail {
-    background-image: url(img/specialdetailsp.jpg);
+    background-image: url(specialdetailsp.jpg);
     height: 488px;
     padding: 20px 10px;
   }
