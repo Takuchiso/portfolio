@@ -95,7 +95,7 @@ button:hover {
 }
 
 .cover-img {
-  background-image: url(img/main.jpg);
+  background-image: url(main.jpg);
   background-size: cover;
   background-position: center;
   text-align: center;
